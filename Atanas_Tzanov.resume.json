@@ -1,0 +1,331 @@
+{
+  "$schema": "https://json.schemastore.org/resume",
+  "basics": {
+    "name": "Atanas Tzanov",
+    "label": "Finance Manager at Фондация \"За Нашите Деца\"",
+    "image": "",
+    "email": "atanas.tzanov@gmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "Multifaceted professional, equally at heart with Human Development Management, Project and Operations Management in the public sector and Professional Training.\n\nPossessing great Analytical skills, vast Project and Finance Management experience and expertise; employing Effective People Training Approaches and an Ingenious Presenter.",
+    "location": {
+      "address": "Sofia, Sofia City Province, Bulgaria",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "US",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "atanastzanov",
+        "url": "https://www.linkedin.com/in/atanastzanov/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Фондация \"За Нашите Деца\"​",
+      "endDate": "2020-08-31",
+      "highlights": [],
+      "position": "Finance Manager",
+      "startDate": "2019-06-30",
+      "summary": "- Strategic financial management of the Foundation (part of the Strategic Management Team). \n- Development and application of financial and controlling framework\n- Leads the yearly budgeting and financial monitoring\n- Forecasting of Costing of Social Services. Develops the costing methodology.\n- Implements tools and practices to improve financial and property management\n- Manages the Finance and Accounting Team\n- (non-finance) Leads the Investment control in the reconstruction project of the foundation's premises in Sofia and Plovdiv",
+      "url": ""
+    },
+    {
+      "name": "Фондация \"За Нашите Деца\"",
+      "endDate": "2019-05-31",
+      "highlights": [],
+      "position": "Deputy Executive Director",
+      "startDate": "2017-05-31",
+      "summary": "Building a better organisation to better deliver development and happy childhood for the most vulnerable children in Bulgaria.\n- Strategic and sustainable financial management of the organisation\n- Contributes to the organisational development - ensures systems of management of knowledge, policies and processes are in place\n- Contributes to the strategic planning\n- Ensures reliable and quality ICT systems are in place\n- Manages the Finance and accounting, ICT and Administration teams.\n- Manages the projects for establishing two Complexes for Early Childhood Development - in Sofia and Plovdiv",
+      "url": ""
+    },
+    {
+      "name": "Whisky Experience Bulgaria",
+      "endDate": "2017-04-30",
+      "highlights": [],
+      "position": "Co-Founder and Manager",
+      "startDate": "2013-04-30",
+      "summary": "Building and management of online trading platform\n(https://shop.whiskyexerience.bg)\nWhisky consultancy and professionals' training\nConducting whisky Masterclasses\nWhisky events",
+      "url": ""
+    },
+    {
+      "name": "Glob@l Libraries - Bulgaria Program",
+      "endDate": "2014-02-28",
+      "highlights": [],
+      "position": "Deputy Program Manager",
+      "startDate": "2012-05-31",
+      "summary": "Overall responsibility of the Program's operations\nOptimisation of internal processes and procedures\nMicro-credit grants implementation and management\nStaff management.",
+      "url": ""
+    },
+    {
+      "name": "Glob@l Libraries - Bulgaria Program",
+      "endDate": "2012-05-31",
+      "highlights": [],
+      "position": "Finance Manager",
+      "startDate": "2011-03-31",
+      "summary": "Financial management: budgets, costs analysis, donor reporting, micro-capital grants, etc.",
+      "url": ""
+    },
+    {
+      "name": "InfoPartners, Inc.",
+      "endDate": "2011-03-31",
+      "highlights": [],
+      "position": "Business Systems Education Specialist",
+      "startDate": "2010-05-31",
+      "summary": "Preparation and delivery of SAP key-user trainings in the areas of Treasury and controlling in connection to SAP deployment or ad-hoc requests, in connection to SAP deployment to Coca-Cola Hellenic Group.\nCreation of full training program based on customer needs: customer analysis - mapping of business to system processes; preparation of training materials, visual aids and user manuals; training co-ordination and delivery.",
+      "url": ""
+    },
+    {
+      "name": "UNDP",
+      "endDate": "2009-12-31",
+      "highlights": [],
+      "position": "Finance Manager, Common Services",
+      "startDate": "2008-01-31",
+      "summary": "Implementing effective internal controls to ensure full compliance with UN/UNDP rules, regulations, and policies of financial activities.\nBusiness processes mapping and developing of Standard Operating Procedures for services rendered. \nPreparation and implementation of cost-sharing agreements. Devising optimal cost-recovery system.\nPreparation and oversight of budgets. Identifying areas for negotiation with host government to obtain funding for UN House Administration. \nManagement and supervision of Common Services finance unit staff\nOrganisation of trainings for staff on Finance and ERP system.",
+      "url": ""
+    },
+    {
+      "name": "UNDP",
+      "endDate": "2007-12-31",
+      "highlights": [],
+      "position": "Finance Associate",
+      "startDate": "2004-07-31",
+      "summary": "Manage Common Services budgets and cost-recovery. Reporting on budget status and donor grants. Approval of financial transactions. Payroll certification. Procurement of goods and services for the common premises.",
+      "url": ""
+    },
+    {
+      "name": "UNDP",
+      "endDate": "2004-06-30",
+      "highlights": [],
+      "position": "Finance Assistant",
+      "startDate": "2001-11-30",
+      "summary": "Finance focal point for key procurement accounts. Common Services finance administration. Payroll verification. Banking.",
+      "url": ""
+    },
+    {
+      "name": "World Health Organization",
+      "endDate": "2001-10-31",
+      "highlights": [],
+      "position": "Finance Clerk",
+      "startDate": "2000-10-31",
+      "summary": "Operational financial activities, such as payments processing, travel claims, payroll disbursements etc",
+      "url": ""
+    },
+    {
+      "name": "UNDP",
+      "endDate": "2000-10-31",
+      "highlights": [],
+      "position": "Research and Development Assistant",
+      "startDate": "2000-02-28",
+      "summary": "As part of AIESEC Traineeship exchange programme.\nCompiling UNDP's Annual Statistical report on Procurement; Focal point on statistical matters for member states; IT assistance to the R&amp;D unit; Intranet development",
+      "url": ""
+    },
+    {
+      "name": "AMT Accounting Agency",
+      "endDate": "1999-03-31",
+      "highlights": [],
+      "position": "Accouting Assistant",
+      "startDate": "1998-06-30",
+      "summary": "Assisting key accounts managers in clercal/operational tasks. Customer relations and customer representation at government institutions and agencies.",
+      "url": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "AIESEC Denmark",
+      "position": "Member of the Board of Directors, Internal Auditor",
+      "url": "https://www.linkedin.com/company/407734",
+      "startDate": "2002-12-31",
+      "endDate": "2004-12-31",
+      "summary": null,
+      "highlights": []
+    },
+    {
+      "organization": "AIESEC Bulgaria",
+      "position": "Finance and Exchange Director, Technical University Section",
+      "url": "https://www.linkedin.com/company/10094531",
+      "startDate": "1997-12-31",
+      "endDate": "2000-12-31",
+      "summary": null,
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "The Open University",
+      "area": "Development",
+      "studyType": "MSc in Development Management",
+      "startDate": "2004-12-31",
+      "endDate": "2009-12-31",
+      "gpa": "",
+      "courses": [
+        "TU871 - Development: context and practice",
+        "TU870 - Capacities for managing development",
+        "D820 - The challenge of the social sciences",
+        "TU875 - War, intervention and development",
+        "TU872 - Institutional development",
+        "TU874 - The development management project"
+      ]
+    },
+    {
+      "institution": "University of National and World Economy",
+      "area": "Accounting and Audit",
+      "studyType": "Bachelor",
+      "startDate": "1996-12-31",
+      "endDate": "2002-12-31",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Development Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Development Projects",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Managerial Finance",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Glob@l Libraries - Bulgaria Program",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "UNDP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strategy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Operations Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Training",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Planning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business Process",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Budgets",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strategic Planning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sustainable Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Financial Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "International Relations",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Business Strategy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ERP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Financial Structuring",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Finance",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PeopleSoft",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Policy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Procurement",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SAP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Government",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "en",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}
