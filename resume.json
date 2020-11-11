@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "theme": "stackoverflow"
+  },
+  "basics": {
+    "name": "Atanas Tzanov",
+    "label": "",
+    "image": "https://avatars0.githubusercontent.com/u/74258037?v=4",
+    "email": "atanas.tzanov@gmail.com",
+    "phone": "+359896026949",
+    "url": "",
+    "summary": "Multifaceted professional, equally at heart with Information Technology, Human Development and Project/Operations Management.",
+    "picture": "https://avatars0.githubusercontent.com/u/74258037?v=4",
+    "headline": "",
+    "website": "",
+    "blog": "",
+    "yearsOfExperience": "",
+    "id": "f953f761-d68d-4f59-af29-f9680f8e2cf4",
+    "username": "atanastzanov",
+    "karma": 10,
+    "followers": 0,
+    "following": 0,
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Sofia",
+      "countryCode": "BG",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "atanastzanov",
+        "url": "https://www.github.com/atanastzanov/"
+      },
+      {
+        "network": "GitHub",
+        "username": "atanastzanov",
+        "url": "https://www.linkedin.com/in/atanastzanov/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Фондация \"За Нашите Деца\"",
+      "endDate": "2020-08",
+      "position": "Deputy Executive Director, Finance Manager",
+      "startDate": "2017-05",
+      "summary": "Bulgarian NGO, providing professional social services to Bulgarian children and families at risk in Sofia and Plovdiv",
+      "url": "",
+      "highlights": [
+        "Implemented a decentralised budgeting and financial management process, empowering Budget Owners",
+        "Lead Business Analysis to map processes to financial data, which helped to improve Financial Analysis, Forecasting and Costing of Social Services",
+        "Managed the development of new Costing Methodology",
+        "Developed a tool for Budget vs Actual Costs monitoring and reporting; Cashflow forecasting",
+        "Lead payment gateway API implementation for iCard, Safecharge, Paypal, ePay.bg",
+        "Lead the Investment control in the reconstruction project of the foundation's premises in Sofia and Plovdiv"
+      ]
+    },
+    {
+      "company": "Whisky Experience Bulgaria",
+      "endDate": "2017-04-30",
+      "position": "Co-Founder and Manager",
+      "startDate": "2013-04-30",
+      "summary": "Whisky consultancy and trade",
+      "url": "",
+      "highlights": [
+        "Started the company",
+        "Developed e-commerce OpenCart-based store",
+        "Developed Wordpress-based company website",
+        "Developed \"Whisky School\" curriculum and taught one season in Sofia",
+        "Consulted the creation of the first whisky bar in Plovdiv; trained all staff"
+      ]
+    },
+    {
+      "company": "Glob@l Libraries - Bulgaria Program",
+      "endDate": "2014-02",
+      "highlights": [
+        "Overall responsibility of the Program's operations",
+        "Optimisation of internal processes and procedures",
+        "Micro-credit grants implementation and management",
+        "Financial management of the program",
+        "People management"
+      ],
+      "position": "Deputy Program Manager (Operations)/Finance Manager",
+      "startDate": "2011-03",
+      "summary": "Bulgarian Libraries – Place for Access to Information and Communication for All",
+      "url": ""
+    },
+    {
+      "company": "Coca-Cola HBC/InfoPartners",
+      "endDate": "2011-03",
+      "highlights": [
+        "Developed proprietary Treasury Module Trainings (on premises and online/self-study)",
+        "Conducted SAP Treasury user trainings in Greece and Bulgaria for employees from 24 countries",
+        "Performed manual UI Tests for SAP Treasury customizations; BUG reporting"
+      ],
+      "position": "SAP Training Consultant",
+      "startDate": "2010-05",
+      "summary": "SAP Treasury implementation to all Coca-Cola HBC countries.",
+      "url": ""
+    },
+    {
+      "company": "UNDP Nordic Office",
+      "endDate": "2009-12",
+      "highlights": [
+        "developed and implemented new cost-sharing methodology",
+        "Negotiated 9 SLAs with UN Agencies to help increase payment collections, better manage customer expectations and improve workflow and ease of work"
+      ],
+      "position": "Finance Manager",
+      "startDate": "2008-01",
+      "summary": "UN House facility management",
+      "url": ""
+    },
+    {
+      "company": "UN Development Programme",
+      "endDate": "2007-12",
+      "highlights": [
+        "Managed Common Services budgets and cost-recovery",
+        "Managed budgets and donor grants",
+        "Payroll certification",
+        "International Banking",
+        "Operations procurement"
+      ],
+      "position": "Finance Associate",
+      "startDate": "2001-11",
+      "summary": "Inter-agency Procurement Services , Copenhagen, Denmark",
+      "url": ""
+    },
+    {
+      "company": "World Health Organization",
+      "endDate": "2001-10",
+      "highlights": [
+        "Operational financial activities",
+        "Payments processing",
+        "Travel claims verification",
+        "Banking support"
+      ],
+      "position": "Finance Assistant",
+      "startDate": "2000-10",
+      "summary": "Regional office for Europe, Copenhagen, Denmark",
+      "url": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "AIESEC Denmark",
+      "position": "Member of the Board of Directors, Internal Auditor",
+      "url": "https://www.linkedin.com/company/407734",
+      "startDate": "2002-12-31",
+      "endDate": "2004-12-31",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "organization": "AIESEC Bulgaria",
+      "position": "Finance and Exchange Director, Technical University Section",
+      "url": "https://www.linkedin.com/company/10094531",
+      "startDate": "1997-12-31",
+      "endDate": "2000-12-31",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Pragmatic \"IT Learning Center\"",
+      "area": "Software Testing",
+      "studyType": "",
+      "startDate": "2020-09",
+      "endDate": "2020-11",
+      "gpa": "",
+      "courses": [
+        "Bug Management",
+        "Test Cases/Scenarios and Test Management",
+        "BDD/Gherkin",
+        "Input Domain Testing",
+        "Exploratory Testing/Heuristics and Oracles",
+        "Web Services Testing",
+        "Parafunctional Testing",
+        "Test Automation",
+        "Agile Software Development (Scrum)",
+        "HTML and CSS"
+      ]
+    },
+    {
+      "institution": "The Open University",
+      "area": "Development",
+      "studyType": "MSc in Development Management",
+      "startDate": "2004-12-31",
+      "endDate": "2009-12-31",
+      "gpa": "",
+      "courses": [
+        "TU871 - Development: context and practice",
+        "TU870 - Capacities for managing development",
+        "D820 - The challenge of the social sciences",
+        "TU875 - War, intervention and development",
+        "TU872 - Institutional development",
+        "TU874 - The development management project"
+      ]
+    },
+    {
+      "institution": "University of National and World Economy",
+      "area": "Accounting and Audit",
+      "studyType": "Bachelor",
+      "startDate": "1996-12-31",
+      "endDate": "2002-12-31",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Finance Management",
+      "level": "Master",
+      "keywords": [
+        "Budgeting", "Financial forecasting", "Cost/benefit analysis", "Accounting policy", "Cashflow and treasury", "Payroll", "Banking", "Risk management"
+      ]
+    },
+    {
+      "name": "Operations Management",
+      "level": "Advanced",
+      "keywords": [
+        "Facility management", "Administration","Public procurement"
+      ]
+    },
+    {
+      "name": "Training",
+      "level": "Advanced",
+      "keywords": [
+        "Content creation", "Trainings delivery"
+      ]
+    },
+    {
+      "name": "Project Management",
+      "level": "Intermediate",
+      "keywords": [
+        "PRINCE2", "Logframe"
+      ]
+    },
+    {
+      "name": "Analysis",
+      "level": "Master",
+      "keywords": [
+        "Strong analytical skills", "Financials", "Data", "Performance"
+      ]
+    },
+    {
+      "name": "Software testing",
+      "level": "Beginner",
+      "keywords": [
+        "Bug and Test case management", "Exploratory testing", "Parafunctional Testing", "API/Web services testing", "BDD/Gherkin",
+        "IntelliJ IDEA","JMeter","PICT/Pairwise","Postman","Mobile testing","Test automation"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Beginner",
+      "keywords": [
+        "HTML5", "CSS", "JavaScript", "JSON", "Gherkin", "Python"
+        ]
+    },
+    {
+      "name": "Databases/Servers/Web",
+      "level": "Intermediate",
+      "keywords": [
+        "MySQL", "MS Access", "MariaDB", "Apache", "Wordpress", "OpenCart", "Magento"
+      ]
+    },
+    {
+      "name": "ERP",
+      "level": "Master",
+      "keywords": [
+        "PeopleSoft/Oracle", "SAP", "Dynamics 365","Odoo"
+      ]
+    },
+    {
+      "name": "Microsoft",
+      "level": "Master",
+      "keywords": [
+        "Excel", "Access", "Power Automate","Word","Powerpoint"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Bulgarian",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name" : "Music",
+      "keywords": ["playing","listening"]
+    },
+    {
+      "name": "Books",
+      "keywords": ["science fiction","fantasy","graphic novels","fiction"]
+    },
+    {
+      "name": "Outdoors",
+      "keywords": ["hiking","orienteering"]
+    }
+  ],
+  "references": [],
+  "projects": []
+}
