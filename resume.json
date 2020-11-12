@@ -47,7 +47,7 @@
       "position": "Deputy Executive Director, Finance Manager",
       "startDate": "2017-05",
       "summary": "Bulgarian NGO, providing professional social services to Bulgarian children and families at risk in Sofia and Plovdiv",
-      "url": "",
+      "url": "https://detebg.org",
       "highlights": [
         "Implemented a decentralised budgeting and financial management process, empowering Budget Owners",
         "Lead Business Analysis to map processes to financial data, which helped to improve Financial Analysis, Forecasting and Costing of Social Services",
@@ -85,7 +85,7 @@
       "position": "Deputy Program Manager (Operations)/Finance Manager",
       "startDate": "2011-03",
       "summary": "Bulgarian Libraries – Place for Access to Information and Communication for All",
-      "url": ""
+      "url": "https://glbulgaria.bg"
     },
     {
       "company": "Coca-Cola HBC/InfoPartners",
@@ -110,7 +110,7 @@
       "position": "Finance Manager",
       "startDate": "2008-01",
       "summary": "UN House facility management",
-      "url": ""
+      "url": "https://un.dk/"
     },
     {
       "company": "UN Development Programme",
@@ -125,7 +125,7 @@
       "position": "Finance Associate",
       "startDate": "2001-11",
       "summary": "Inter-agency Procurement Services , Copenhagen, Denmark",
-      "url": ""
+      "url": "https://undp.org"
     },
     {
       "company": "World Health Organization",
@@ -139,7 +139,7 @@
       "position": "Finance Assistant",
       "startDate": "2000-10",
       "summary": "Regional office for Europe, Copenhagen, Denmark",
-      "url": ""
+      "url": "https://www.euro.who.int/en/home"
     }
   ],
   "volunteer": [
@@ -261,6 +261,13 @@
       "keywords": [
         "HTML5", "CSS", "JavaScript", "JSON", "Gherkin", "Python"
         ]
+    },
+    {
+      "name": "Platforms/OS",
+      "level": "Advanced",
+      "keywords": [
+        "Ubuntu Flavours", "openSUSE", "Fedora", "Windows"
+      ]
     },
     {
       "name": "Databases/Servers/Web",
